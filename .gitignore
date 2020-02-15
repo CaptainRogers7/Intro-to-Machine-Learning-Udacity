@@ -1,0 +1,16 @@
+datasets_questions/maildir/
+text_learning/*.pkl
+feature_selection/*.pkl
+final_project/*.pkl
+final_project/email_by_address/*.txt
+final_project/*.pdf
+maildir/*
+outliers/*.pkl
+text_learning/*.pkl
+text_learning/*.txt
+tools/__pycache__
+tools/*.pkl
+*.csv
+*.tar.gz
+
+
